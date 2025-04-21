@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Licon4812</h1>
+<h1 align="center">Hi 👋, I'm James Alickolli</h1>
 <h3 align="center">I am a software engineer in Australia.</h3>
 
 # Github Status:
